@@ -1,4 +1,4 @@
 # testing
 Python Textbook Answers
 
-Solutions to textbook exercises
+Solutions to all textbook exercises
